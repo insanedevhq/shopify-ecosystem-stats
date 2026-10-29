@@ -1,0 +1,215 @@
+country_code,country,stores
+US,United States,325308
+GB,United Kingdom,72219
+AU,Australia,56138
+CA,Canada,53486
+IN,India,49019
+DE,Germany,42696
+FR,France,36084
+JP,Japan,24794
+IT,Italy,24593
+NL,Netherlands,23460
+ES,Spain,18774
+HK,Hong Kong SAR China,15754
+MX,Mexico,15580
+NZ,New Zealand,12992
+BR,Brazil,9587
+DK,Denmark,8849
+SE,Sweden,8612
+CN,China,7750
+AE,United Arab Emirates,7591
+ZA,South Africa,7492
+CH,Switzerland,7422
+SG,Singapore,7286
+BE,Belgium,6442
+TR,Türkiye,6319
+IE,Ireland,5681
+RO,Romania,5377
+PK,Pakistan,5052
+PT,Portugal,4955
+PL,Poland,4949
+CO,Colombia,4870
+AT,Austria,4706
+PH,Philippines,4384
+CL,Chile,4361
+NO,Norway,4323
+IL,Israel,3944
+FI,Finland,3703
+MY,Malaysia,3501
+EG,Egypt,2480
+GR,Greece,2393
+CZ,Czechia,2263
+HU,Hungary,2240
+ID,Indonesia,1959
+LT,Lithuania,1902
+TW,Taiwan,1694
+BG,Bulgaria,1520
+TH,Thailand,1497
+PE,Peru,1472
+EE,Estonia,1171
+LV,Latvia,1095
+LB,Lebanon,1012
+MA,Morocco,975
+SA,Saudi Arabia,965
+KR,South Korea,940
+KW,Kuwait,896
+IS,Iceland,825
+VN,Vietnam,790
+AR,Argentina,788
+CY,Cyprus,732
+SI,Slovenia,692
+UA,Ukraine,595
+RS,Serbia,591
+HR,Croatia,563
+SK,Slovakia,533
+CR,Costa Rica,514
+PA,Panama,488
+QA,Qatar,454
+GT,Guatemala,427
+MT,Malta,419
+LK,Sri Lanka,378
+BD,Bangladesh,374
+NG,Nigeria,350
+LU,Luxembourg,342
+KE,Kenya,335
+EC,Ecuador,318
+JO,Jordan,312
+DO,Dominican Republic,306
+UY,Uruguay,284
+RE,Réunion,252
+DZ,Algeria,232
+BH,Bahrain,201
+HN,Honduras,193
+VE,Venezuela,193
+GE,Georgia,172
+PY,Paraguay,161
+TN,Tunisia,156
+TT,Trinidad & Tobago,134
+MU,Mauritius,133
+GH,Ghana,132
+OM,Oman,129
+BA,Bosnia & Herzegovina,125
+SV,El Salvador,115
+AL,Albania,106
+JM,Jamaica,92
+GP,Guadeloupe,91
+IQ,Iraq,85
+MC,Monaco,83
+SN,Senegal,80
+BM,Bermuda,79
+MQ,Martinique,78
+CI,Côte d’Ivoire,77
+XK,Kosovo,66
+BS,Bahamas,65
+MD,Moldova,61
+MK,North Macedonia,61
+JE,Jersey,60
+BO,Bolivia,57
+BB,Barbados,57
+FO,Faroe Islands,54
+AD,Andorra,53
+MM,Myanmar (Burma),52
+BN,Brunei,50
+PS,Palestinian Territories,49
+MV,Maldives,49
+LI,Liechtenstein,46
+KH,Cambodia,46
+KY,Cayman Islands,44
+AM,Armenia,43
+GI,Gibraltar,42
+MO,Macao SAR China,41
+NP,Nepal,41
+UG,Uganda,40
+PF,French Polynesia,37
+NA,Namibia,37
+KZ,Kazakhstan,36
+NC,New Caledonia,34
+GG,Guernsey,30
+IM,Isle of Man,28
+GF,French Guiana,28
+BJ,Benin,28
+NI,Nicaragua,27
+CW,Curaçao,25
+AW,Aruba,25
+FJ,Fiji,23
+AO,Angola,22
+TZ,Tanzania,21
+CM,Cameroon,21
+LY,Libya,20
+ME,Montenegro,20
+RU,Russia,18
+VG,British Virgin Islands,18
+BL,St. Barthélemy,18
+AZ,Azerbaijan,17
+MN,Mongolia,17
+MZ,Mozambique,16
+BW,Botswana,15
+GL,Greenland,15
+AG,Antigua & Barbuda,15
+RW,Rwanda,14
+SM,San Marino,14
+GN,Guinea,14
+KN,St. Kitts & Nevis,13
+ZM,Zambia,12
+GY,Guyana,12
+YT,Mayotte,12
+MR,Mauritania,12
+GD,Grenada,12
+SC,Seychelles,12
+HT,Haiti,12
+GA,Gabon,11
+TG,Togo,11
+LC,St. Lucia,11
+ZW,Zimbabwe,10
+YE,Yemen,10
+BF,Burkina Faso,10
+CD,Congo - Kinshasa,10
+ML,Mali,10
+UZ,Uzbekistan,9
+SX,Sint Maarten,9
+ET,Ethiopia,7
+MF,St. Martin,7
+SR,Suriname,7
+MG,Madagascar,6
+TC,Turks & Caicos Islands,6
+PG,Papua New Guinea,6
+WS,Samoa,5
+AX,Åland Islands,5
+KG,Kyrgyzstan,5
+NE,Niger,5
+BZ,Belize,5
+DM,Dominica,5
+BQ,Caribbean Netherlands,5
+CG,Congo - Brazzaville,5
+VU,Vanuatu,4
+GQ,Equatorial Guinea,4
+BT,Bhutan,3
+LA,Laos,3
+SO,Somalia,3
+BY,Belarus,3
+TO,Tonga,3
+MW,Malawi,3
+TD,Chad,3
+TL,Timor-Leste,2
+CK,Cook Islands,2
+PM,St. Pierre & Miquelon,2
+DJ,Djibouti,2
+VC,St. Vincent & Grenadines,2
+GM,Gambia,2
+SL,Sierra Leone,2
+TJ,Tajikistan,2
+SZ,Eswatini,2
+CV,Cape Verde,2
+UM,U.S. Outlying Islands,1
+SB,Solomon Islands,1
+TM,Turkmenistan,1
+KI,Kiribati,1
+SD,Sudan,1
+AF,Afghanistan,1
+LR,Liberia,1
+NF,Norfolk Island,1
+LS,Lesotho,1
+KM,Comoros,1
+AI,Anguilla,1
+SJ,Svalbard & Jan Mayen,1
+BI,Burundi,1

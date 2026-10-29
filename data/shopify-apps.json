@@ -1,0 +1,588 @@
+{
+ "source": "insanedev.dev",
+ "license": "CC BY 4.0",
+ "builtAt": "2026-10-29T18:24:05.621Z",
+ "apps": [
+  {
+   "app": "PayPal messaging",
+   "category": "Payments & BNPL",
+   "stores": 232224,
+   "share_of_read_stores_pct": 30.3,
+   "top_countries": "US 35.9%; GB 9.1%; DE 8.9%"
+  },
+  {
+   "app": "Judge.me",
+   "category": "Reviews",
+   "stores": 212895,
+   "share_of_read_stores_pct": 27.8,
+   "top_countries": "US 26.3%; IN 11.3%; GB 8%"
+  },
+  {
+   "app": "Klaviyo",
+   "category": "Email & SMS",
+   "stores": 162731,
+   "share_of_read_stores_pct": 21.2,
+   "top_countries": "US 35.9%; GB 10.1%; AU 9.6%"
+  },
+  {
+   "app": "Microsoft Clarity",
+   "category": "Analytics & ads",
+   "stores": 85554,
+   "share_of_read_stores_pct": 11.2,
+   "top_countries": "US 22.5%; IN 12%; GB 8.8%"
+  },
+  {
+   "app": "Mailchimp",
+   "category": "Email & SMS",
+   "stores": 62076,
+   "share_of_read_stores_pct": 8.1,
+   "top_countries": "US 37.3%; GB 12.3%; AU 8.7%"
+  },
+  {
+   "app": "PageFly",
+   "category": "Page builder",
+   "stores": 44892,
+   "share_of_read_stores_pct": 5.9,
+   "top_countries": "US 29.1%; GB 7.3%; AU 5.7%"
+  },
+  {
+   "app": "Meta Pixel",
+   "category": "Analytics & ads",
+   "stores": 41612,
+   "share_of_read_stores_pct": 5.4,
+   "top_countries": "US 28%; IN 11.7%; GB 7.6%"
+  },
+  {
+   "app": "LimeSpot",
+   "category": "Upsell & personalisation",
+   "stores": 35847,
+   "share_of_read_stores_pct": 4.7,
+   "top_countries": "US 29.2%; GB 7.2%; AU 6%"
+  },
+  {
+   "app": "Loox",
+   "category": "Reviews",
+   "stores": 29438,
+   "share_of_read_stores_pct": 3.8,
+   "top_countries": "US 31%; GB 8.1%; AU 7.4%"
+  },
+  {
+   "app": "Omnisend",
+   "category": "Email & SMS",
+   "stores": 25260,
+   "share_of_read_stores_pct": 3.3,
+   "top_countries": "US 30.8%; GB 10%; AU 7.2%"
+  },
+  {
+   "app": "Triple Whale",
+   "category": "Analytics & ads",
+   "stores": 21145,
+   "share_of_read_stores_pct": 2.8,
+   "top_countries": "US 41.8%; GB 10.4%; AU 6.8%"
+  },
+  {
+   "app": "Yotpo",
+   "category": "Reviews & loyalty",
+   "stores": 19253,
+   "share_of_read_stores_pct": 2.5,
+   "top_countries": "US 50%; GB 9.8%; AU 9.2%"
+  },
+  {
+   "app": "Hotjar",
+   "category": "Analytics & ads",
+   "stores": 18473,
+   "share_of_read_stores_pct": 2.4,
+   "top_countries": "US 27.1%; GB 11.2%; DE 8.6%"
+  },
+  {
+   "app": "GemPages",
+   "category": "Page builder",
+   "stores": 18393,
+   "share_of_read_stores_pct": 2.4,
+   "top_countries": "US 28.4%; GB 6.8%; DE 6%"
+  },
+  {
+   "app": "Trustpilot widget",
+   "category": "Reviews",
+   "stores": 17693,
+   "share_of_read_stores_pct": 2.3,
+   "top_countries": "GB 34.2%; IT 10.1%; US 8.8%"
+  },
+  {
+   "app": "Weglot",
+   "category": "Translation",
+   "stores": 14118,
+   "share_of_read_stores_pct": 1.8,
+   "top_countries": "US 29.3%; CA 8.7%; GB 7.4%"
+  },
+  {
+   "app": "Gorgias",
+   "category": "Support & chat",
+   "stores": 13701,
+   "share_of_read_stores_pct": 1.8,
+   "top_countries": "US 46.5%; GB 12.6%; AU 11.8%"
+  },
+  {
+   "app": "Privy",
+   "category": "Popups & forms",
+   "stores": 13322,
+   "share_of_read_stores_pct": 1.7,
+   "top_countries": "US 50.9%; CA 8.3%; GB 7.5%"
+  },
+  {
+   "app": "Swym",
+   "category": "Wishlist",
+   "stores": 13198,
+   "share_of_read_stores_pct": 1.7,
+   "top_countries": "US 29.5%; GB 10.5%; AU 8.6%"
+  },
+  {
+   "app": "Afterpay",
+   "category": "Payments & BNPL",
+   "stores": 12610,
+   "share_of_read_stores_pct": 1.6,
+   "top_countries": "AU 42.6%; US 31.6%; NZ 10.8%"
+  },
+  {
+   "app": "Appstle Subscriptions",
+   "category": "Subscriptions",
+   "stores": 12544,
+   "share_of_read_stores_pct": 1.6,
+   "top_countries": "US 44%; GB 12.1%; AU 8.5%"
+  },
+  {
+   "app": "ReConvert",
+   "category": "Upsell & bundles",
+   "stores": 10780,
+   "share_of_read_stores_pct": 1.4,
+   "top_countries": "US 18.2%; IN 14%; GB 6.7%"
+  },
+  {
+   "app": "Recharge",
+   "category": "Subscriptions",
+   "stores": 10113,
+   "share_of_read_stores_pct": 1.3,
+   "top_countries": "US 58%; GB 13.2%; AU 6.9%"
+  },
+  {
+   "app": "Stamped",
+   "category": "Reviews",
+   "stores": 9969,
+   "share_of_read_stores_pct": 1.3,
+   "top_countries": "US 44.8%; AU 10.1%; GB 8.8%"
+  },
+  {
+   "app": "UpPromote",
+   "category": "Affiliates & creators",
+   "stores": 9891,
+   "share_of_read_stores_pct": 1.3,
+   "top_countries": "US 36.8%; GB 8%; AU 6.6%"
+  },
+  {
+   "app": "Tidio",
+   "category": "Support & chat",
+   "stores": 9859,
+   "share_of_read_stores_pct": 1.3,
+   "top_countries": "US 36%; GB 10.1%; AU 7.8%"
+  },
+  {
+   "app": "Transcy",
+   "category": "Translation",
+   "stores": 9609,
+   "share_of_read_stores_pct": 1.3,
+   "top_countries": "US 20.6%; FR 11.6%; DE 6.4%"
+  },
+  {
+   "app": "BOGOS",
+   "category": "Upsell & bundles",
+   "stores": 9503,
+   "share_of_read_stores_pct": 1.2,
+   "top_countries": "US 27.6%; AU 9.3%; GB 8.2%"
+  },
+  {
+   "app": "Smile.io",
+   "category": "Loyalty",
+   "stores": 9132,
+   "share_of_read_stores_pct": 1.2,
+   "top_countries": "US 45.5%; GB 10%; CA 9.5%"
+  },
+  {
+   "app": "Rebuy",
+   "category": "Upsell & personalisation",
+   "stores": 8375,
+   "share_of_read_stores_pct": 1.1,
+   "top_countries": "US 59%; GB 8.1%; CA 6.9%"
+  },
+  {
+   "app": "TikTok Pixel",
+   "category": "Analytics & ads",
+   "stores": 6908,
+   "share_of_read_stores_pct": 0.9,
+   "top_countries": "US 25%; GB 7.5%; PK 6.2%"
+  },
+  {
+   "app": "Pinterest Tag",
+   "category": "Analytics & ads",
+   "stores": 6908,
+   "share_of_read_stores_pct": 0.9,
+   "top_countries": "US 28.1%; GB 11.3%; DE 9.3%"
+  },
+  {
+   "app": "Okendo",
+   "category": "Reviews",
+   "stores": 6314,
+   "share_of_read_stores_pct": 0.8,
+   "top_countries": "US 51.5%; AU 17.5%; GB 7.6%"
+  },
+  {
+   "app": "Boost Commerce",
+   "category": "Search & filters",
+   "stores": 6311,
+   "share_of_read_stores_pct": 0.8,
+   "top_countries": "US 29.9%; GB 12.1%; AU 10.2%"
+  },
+  {
+   "app": "Bold",
+   "category": "Subscriptions & pricing",
+   "stores": 6012,
+   "share_of_read_stores_pct": 0.8,
+   "top_countries": "US 50.2%; GB 10.2%; CA 9.1%"
+  },
+  {
+   "app": "Reviews.io",
+   "category": "Reviews",
+   "stores": 5734,
+   "share_of_read_stores_pct": 0.7,
+   "top_countries": "GB 28.4%; DE 21.8%; US 17.2%"
+  },
+  {
+   "app": "Langify",
+   "category": "Translation",
+   "stores": 5627,
+   "share_of_read_stores_pct": 0.7,
+   "top_countries": "CA 12.8%; US 11.5%; DE 10.8%"
+  },
+  {
+   "app": "Zipify Pages",
+   "category": "Page builder",
+   "stores": 4883,
+   "share_of_read_stores_pct": 0.6,
+   "top_countries": "US 55.5%; GB 9.4%; AU 7.3%"
+  },
+  {
+   "app": "Attentive",
+   "category": "Email & SMS",
+   "stores": 4747,
+   "share_of_read_stores_pct": 0.6,
+   "top_countries": "US 76.8%; GB 8%; AU 3.6%"
+  },
+  {
+   "app": "Intelligems",
+   "category": "Price testing",
+   "stores": 4695,
+   "share_of_read_stores_pct": 0.6,
+   "top_countries": "US 57.2%; GB 7.6%; NL 6%"
+  },
+  {
+   "app": "Searchanise",
+   "category": "Search & filters",
+   "stores": 4628,
+   "share_of_read_stores_pct": 0.6,
+   "top_countries": "US 37.1%; GB 10.8%; CA 8%"
+  },
+  {
+   "app": "Elevar",
+   "category": "Analytics & ads",
+   "stores": 4609,
+   "share_of_read_stores_pct": 0.6,
+   "top_countries": "US 42.7%; GB 10.7%; AU 9%"
+  },
+  {
+   "app": "Cookiebot",
+   "category": "Consent",
+   "stores": 4494,
+   "share_of_read_stores_pct": 0.6,
+   "top_countries": "DE 14.8%; NL 11.2%; US 10.9%"
+  },
+  {
+   "app": "Zendesk",
+   "category": "Support & chat",
+   "stores": 3656,
+   "share_of_read_stores_pct": 0.5,
+   "top_countries": "US 36.6%; GB 9.4%; AU 7.6%"
+  },
+  {
+   "app": "Postscript",
+   "category": "Email & SMS",
+   "stores": 3417,
+   "share_of_read_stores_pct": 0.4,
+   "top_countries": "US 85.9%; CA 5.3%; AU 2.6%"
+  },
+  {
+   "app": "LoyaltyLion",
+   "category": "Loyalty",
+   "stores": 3310,
+   "share_of_read_stores_pct": 0.4,
+   "top_countries": "US 36%; GB 17.1%; CA 6.2%"
+  },
+  {
+   "app": "Growave",
+   "category": "Loyalty & wishlist",
+   "stores": 3227,
+   "share_of_read_stores_pct": 0.4,
+   "top_countries": "US 28.8%; CA 7.3%; GB 7.1%"
+  },
+  {
+   "app": "Tolstoy",
+   "category": "Video commerce",
+   "stores": 3211,
+   "share_of_read_stores_pct": 0.4,
+   "top_countries": "US 36.1%; AU 22.5%; GB 6.9%"
+  },
+  {
+   "app": "Klarna",
+   "category": "Payments & BNPL",
+   "stores": 3103,
+   "share_of_read_stores_pct": 0.4,
+   "top_countries": "GB 24.6%; US 17.8%; IT 10.5%"
+  },
+  {
+   "app": "Fera",
+   "category": "Reviews & social proof",
+   "stores": 3045,
+   "share_of_read_stores_pct": 0.4,
+   "top_countries": "US 36.4%; GB 10.6%; AU 9.1%"
+  },
+  {
+   "app": "Sezzle",
+   "category": "Payments & BNPL",
+   "stores": 2761,
+   "share_of_read_stores_pct": 0.4,
+   "top_countries": "US 68.7%; CA 19.2%; AU 2.2%"
+  },
+  {
+   "app": "Junip",
+   "category": "Reviews",
+   "stores": 2478,
+   "share_of_read_stores_pct": 0.3,
+   "top_countries": "US 55.7%; GB 8.7%; CA 7.7%"
+  },
+  {
+   "app": "ShopMy",
+   "category": "Affiliates & creators",
+   "stores": 2388,
+   "share_of_read_stores_pct": 0.3,
+   "top_countries": "US 74.6%; GB 8.1%; AU 5.7%"
+  },
+  {
+   "app": "Rise.ai",
+   "category": "Loyalty",
+   "stores": 2362,
+   "share_of_read_stores_pct": 0.3,
+   "top_countries": "US 57.2%; AU 8.3%; CA 7.3%"
+  },
+  {
+   "app": "Octane AI",
+   "category": "Quizzes & personalisation",
+   "stores": 2357,
+   "share_of_read_stores_pct": 0.3,
+   "top_countries": "US 52.2%; GB 12.4%; AU 6.5%"
+  },
+  {
+   "app": "Loop Returns",
+   "category": "Shipping & returns",
+   "stores": 2353,
+   "share_of_read_stores_pct": 0.3,
+   "top_countries": "US 77.9%; GB 7.3%; AU 5.9%"
+  },
+  {
+   "app": "OneTrust",
+   "category": "Consent",
+   "stores": 2238,
+   "share_of_read_stores_pct": 0.3,
+   "top_countries": "US 51%; GB 11.2%; CA 4.6%"
+  },
+  {
+   "app": "Re:amaze",
+   "category": "Support & chat",
+   "stores": 1931,
+   "share_of_read_stores_pct": 0.3,
+   "top_countries": "US 39.5%; GB 9.9%; AU 8.1%"
+  },
+  {
+   "app": "Bazaarvoice",
+   "category": "Reviews",
+   "stores": 1778,
+   "share_of_read_stores_pct": 0.2,
+   "top_countries": "US 67.7%; GB 8.5%; CA 7.4%"
+  },
+  {
+   "app": "Opinew",
+   "category": "Reviews",
+   "stores": 1659,
+   "share_of_read_stores_pct": 0.2,
+   "top_countries": "US 33.2%; GB 11.6%; JP 8%"
+  },
+  {
+   "app": "Refersion",
+   "category": "Affiliates & creators",
+   "stores": 1526,
+   "share_of_read_stores_pct": 0.2,
+   "top_countries": "US 74.4%; GB 6%; CA 5.7%"
+  },
+  {
+   "app": "Snap Pixel",
+   "category": "Analytics & ads",
+   "stores": 1403,
+   "share_of_read_stores_pct": 0.2,
+   "top_countries": "US 24.7%; IN 15.9%; PK 7%"
+  },
+  {
+   "app": "Global-e",
+   "category": "Cross-border",
+   "stores": 1372,
+   "share_of_read_stores_pct": 0.2,
+   "top_countries": "US 38.1%; GB 24.9%; FR 8.1%"
+  },
+  {
+   "app": "AfterShip",
+   "category": "Shipping & returns",
+   "stores": 1199,
+   "share_of_read_stores_pct": 0.2,
+   "top_countries": "US 45.5%; AU 7.1%; GB 6.8%"
+  },
+  {
+   "app": "Affirm",
+   "category": "Payments & BNPL",
+   "stores": 1134,
+   "share_of_read_stores_pct": 0.1,
+   "top_countries": "US 85.3%; CA 10.5%; HK 0.6%"
+  },
+  {
+   "app": "Tapcart",
+   "category": "Mobile app",
+   "stores": 1078,
+   "share_of_read_stores_pct": 0.1,
+   "top_countries": "US 59.6%; GB 11.3%; AU 8.3%"
+  },
+  {
+   "app": "Justuno",
+   "category": "Popups & forms",
+   "stores": 962,
+   "share_of_read_stores_pct": 0.1,
+   "top_countries": "US 67.8%; AU 6.3%; GB 5.9%"
+  },
+  {
+   "app": "Intercom",
+   "category": "Support & chat",
+   "stores": 955,
+   "share_of_read_stores_pct": 0.1,
+   "top_countries": "US 34%; GB 10.5%; DE 6.3%"
+  },
+  {
+   "app": "Route",
+   "category": "Shipping & returns",
+   "stores": 898,
+   "share_of_read_stores_pct": 0.1,
+   "top_countries": "US 84.9%; CA 5.9%; GB 1.8%"
+  },
+  {
+   "app": "Nosto",
+   "category": "Upsell & personalisation",
+   "stores": 840,
+   "share_of_read_stores_pct": 0.1,
+   "top_countries": "US 34.5%; GB 16%; FR 10.7%"
+  },
+  {
+   "app": "Northbeam",
+   "category": "Analytics & ads",
+   "stores": 700,
+   "share_of_read_stores_pct": 0.1,
+   "top_countries": "US 71.7%; GB 5.9%; CA 5.6%"
+  },
+  {
+   "app": "Shogun",
+   "category": "Page builder",
+   "stores": 612,
+   "share_of_read_stores_pct": 0.1,
+   "top_countries": "US 47.4%; GB 10.3%; AU 7.8%"
+  },
+  {
+   "app": "Skio",
+   "category": "Subscriptions",
+   "stores": 607,
+   "share_of_read_stores_pct": 0.1,
+   "top_countries": "US 64.9%; GB 15.8%; AU 5.6%"
+  },
+  {
+   "app": "Searchspring",
+   "category": "Search & filters",
+   "stores": 426,
+   "share_of_read_stores_pct": 0.1,
+   "top_countries": "US 47.7%; AU 33.8%; GB 5.2%"
+  },
+  {
+   "app": "Drip",
+   "category": "Email & SMS",
+   "stores": 419,
+   "share_of_read_stores_pct": 0.1,
+   "top_countries": "US 39.1%; GB 11.2%; DK 10.7%"
+  },
+  {
+   "app": "Vitals",
+   "category": "Upsell & personalisation",
+   "stores": 294,
+   "share_of_read_stores_pct": 0,
+   "top_countries": "US 34.4%; GB 10.2%; FR 8.2%"
+  },
+  {
+   "app": "Recart",
+   "category": "Email & SMS",
+   "stores": 270,
+   "share_of_read_stores_pct": 0,
+   "top_countries": "US 55.6%; CA 6.7%; BG 5.9%"
+  },
+  {
+   "app": "Klevu",
+   "category": "Search & filters",
+   "stores": 233,
+   "share_of_read_stores_pct": 0,
+   "top_countries": "US 41.2%; GB 30.5%; CA 4.3%"
+  },
+  {
+   "app": "Narvar",
+   "category": "Shipping & returns",
+   "stores": 109,
+   "share_of_read_stores_pct": 0,
+   "top_countries": "US 82.6%; DK 3.7%; GB 3.7%"
+  },
+  {
+   "app": "Findify",
+   "category": "Search & filters",
+   "stores": 79,
+   "share_of_read_stores_pct": 0,
+   "top_countries": "US 35.4%; GB 13.9%; AU 11.4%"
+  },
+  {
+   "app": "Algolia",
+   "category": "Search & filters",
+   "stores": 62,
+   "share_of_read_stores_pct": 0,
+   "top_countries": "US 33.9%; GB 22.6%; AU 8.1%"
+  },
+  {
+   "app": "accessiBe",
+   "category": "Accessibility",
+   "stores": 59,
+   "share_of_read_stores_pct": 0,
+   "top_countries": "US 91.5%; AU 1.7%; BR 1.7%"
+  },
+  {
+   "app": "Malomo",
+   "category": "Shipping & returns",
+   "stores": 22,
+   "share_of_read_stores_pct": 0,
+   "top_countries": "US 81.8%; AU 4.5%; DE 4.5%"
+  }
+ ]
+}
