@@ -4,6 +4,8 @@ Counts of live Shopify stores by app, theme, niche and country, from the index b
 
 The files hold counts only. There are no store domains, names or contacts in them.
 
+Also on Hugging Face: [insanedevhq/shopify-ecosystem-stats](https://huggingface.co/datasets/insanedevhq/shopify-ecosystem-stats).
+
 ## Files
 
 | File | What it counts | Rows |
